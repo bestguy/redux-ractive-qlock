@@ -1,0 +1,23 @@
+{
+  "name": "redux-ractive-qlock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "bestguy",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "express": "^4.13.4",
+    "ractive": "^0.7.3",
+    "redux": "^3.3.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-middleware": "^1.5.1",
+    "webpack-hot-middleware": "^2.7.1"
+  }
+}

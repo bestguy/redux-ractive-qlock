@@ -1,0 +1,30 @@
+*, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Code Pro', 'Consolas', monospace;
+}
+
+html {
+  background-color: black;
+}
+html, body {
+  height: 100%;
+}
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+pre {
+  color: rgba(255, 255, 255, 0.27);
+  font-size: 5vmin;
+  letter-spacing: 0.46em;
+  text-align: center;
+  transition: color 1s ease, text-shadow 1s ease;
+}
+
+pre b {
+  color: white;
+  font-weight: normal;
+  font-style: normal;
+  text-shadow: 0 0 4px white;
+}
+
